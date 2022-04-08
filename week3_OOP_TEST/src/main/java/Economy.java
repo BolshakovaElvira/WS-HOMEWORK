@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//rkrkrkr
 public class Economy extends Faculty implements learn {
 
     public Economy(String name) {
